@@ -26,11 +26,6 @@ body {
   padding: 50px;
 }
 
-
-.container2 {
-  padding-top: 0;
-}
-
 .intro,
 .second,
 .boxes,
@@ -171,11 +166,6 @@ body {
   .contnt,
   .second  {
     padding: 20px;
-  }
-
-
-  .container2 {
-    padding-top: 0;
   }
 
   .intro,
