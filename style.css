@@ -78,7 +78,7 @@ body {
 
 
 .intro2 p {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .intro:hover,
@@ -95,7 +95,7 @@ body {
 
 .intro h1 {
   letter-spacing: 1px;
-  font-size: 40px;
+  font-size: 45px;
   font-family: 'Pacifico', cursive;
   cursor: default;
   width: auto;
@@ -209,7 +209,12 @@ body {
     flex-direction: column;
     align-items: flex-start;
   }
-
+  .intro2 p{
+    font-size: 16px;
+}
+  .intro2 h1{
+    font-size: 45px;
+}
   .second .boxes {
     width: 200px;
   }
