@@ -75,7 +75,7 @@
 
 
     .intro2 p {
-      font-size: 20px;
+      font-size: 17px;
     }
 
     .intro:hover,
@@ -94,7 +94,7 @@
 
     .intro h1 {
       letter-spacing: 1px;
-      font-size: 40px;
+      font-size: 45px;
       font-family: 'Pacifico', cursive;
       cursor: default;
       width: auto;
@@ -165,6 +165,9 @@
         align-items: center;
         height: auto;
         width: 100%;
+      }
+      .intro2 h1{
+        Font-size:35px;
       }
 
       .second .boxes {
