@@ -169,7 +169,10 @@
           rgba(80, 119, 144, 1) 83.76302083333333%
         );
       }
-
+    
+      .formobile {
+        display: none;
+      }
       @media only screen and (max-width: 900px) {
         .contnt {
           margin: 0 0 20px 0;
